@@ -1,0 +1,19 @@
+from-clone2.txt
+  s_1e2077ee088713::t_0f6db1591150eb 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "e978a52eb4e3c8b5317ca43cde8782b395f9b922",
+  "prompts": {},
+  "sessions": {
+    "s_1e2077ee088713": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "dc01a2ef-e0b7-485b-8de1-1e0ef31a44c3",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
