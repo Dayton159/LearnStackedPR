@@ -1,0 +1,19 @@
+capture-one.txt
+  s_1e2077ee088713::t_7d2010540c6a92 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "87c0e735349491d9e0b5d01ceb97dacbdf3799c3",
+  "prompts": {},
+  "sessions": {
+    "s_1e2077ee088713": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "dc01a2ef-e0b7-485b-8de1-1e0ef31a44c3",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
