@@ -1,5 +1,9 @@
 from-clone2.txt
   s_1e2077ee088713::t_0f6db1591150eb 1
+model.txt
+  s_1e2077ee088713::t_8c4186affb60f7 1
+service.txt
+  s_1e2077ee088713::t_034d0ef75aac78 1
 ---
 {
   "schema_version": "authorship/3.0.0",
