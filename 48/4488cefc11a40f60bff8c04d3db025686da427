@@ -1,0 +1,21 @@
+model.txt
+  s_1e2077ee088713::t_8c4186affb60f7 1
+service.txt
+  s_1e2077ee088713::t_034d0ef75aac78 1
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.11",
+  "base_commit_sha": "484488cefc11a40f60bff8c04d3db025686da427",
+  "prompts": {},
+  "sessions": {
+    "s_1e2077ee088713": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "dc01a2ef-e0b7-485b-8de1-1e0ef31a44c3",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Dayton <dayton159@gmail.com>"
+    }
+  }
+}
